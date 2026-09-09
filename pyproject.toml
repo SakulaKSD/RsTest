@@ -1,0 +1,9 @@
+[project]
+name = "rstest"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.11.1",
+    "openpyxl>=3.1.5",
+    "scikit-rf>=2.1.0",
+]
