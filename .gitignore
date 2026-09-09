@@ -1,0 +1,30 @@
+# ===== Python：虚拟环境与缓存 =====
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# ===== MATLAB：编辑器自动保存与备份 =====
+*.asv
+*.m~
+*.mlappbackup
+*.mex*
+
+# ===== 测量数据：不进 Git（两阶段通用）=====
+data/
+*.s2p
+*.s1p
+*.snp
+*.xlsx
+*.xls
+测试日志_*.txt
+*.log
+
+# ===== 编辑器与系统垃圾 =====
+.vscode/*
+!.vscode/settings.json
+.DS_Store
+Thumbs.db

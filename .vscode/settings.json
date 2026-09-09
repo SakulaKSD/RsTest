@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "/home/mrzhou_learn/projects/RsTest/.venv/bin/python",
+    "python.terminal.activateEnvironment": true
+}
