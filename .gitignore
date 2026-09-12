@@ -26,4 +26,4 @@ data/
 # ===== 编辑器与系统垃圾 =====
 .vscode/*
 .DS_Store
-Thumbs.db.vscode/
+Thumbs.db
