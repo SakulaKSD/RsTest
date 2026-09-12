@@ -25,6 +25,5 @@ data/
 
 # ===== 编辑器与系统垃圾 =====
 .vscode/*
-!.vscode/settings.json
 .DS_Store
 Thumbs.db.vscode/
