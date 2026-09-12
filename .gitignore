@@ -27,4 +27,4 @@ data/
 .vscode/*
 !.vscode/settings.json
 .DS_Store
-Thumbs.db
+Thumbs.db.vscode/
